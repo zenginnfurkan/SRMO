@@ -57,7 +57,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/silkroadmerchant.git
+   git clone https://github.com/zenginnfurkan/silkroadmerchant.git
    cd silkroadmerchant
    ```
 
