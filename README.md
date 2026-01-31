@@ -72,7 +72,7 @@
    ```
 
 4. **Open your browser**
-   Navigate to `http://localhost:5173`
+   Navigate to `http://localhost`
 
 ### Building for Production
 
@@ -164,7 +164,3 @@ This project is licensed under the MIT License.
 - Inspired by **Silk Road Online** (Joymax)
 - Built with modern web technologies for a nostalgic experience
 - Special thanks to the MMORPG community for feedback and support
-
----
-
-**Made with ❤️ by Furkan** | [GitHub](https://github.com/yourusername) | [Portfolio](https://yourportfolio.com)
